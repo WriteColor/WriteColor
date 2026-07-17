@@ -1,12 +1,5 @@
 # ¡Hola! Soy Jeremyah Mercado 👋 (`WriteColor`)
 
-```
- ┌──────────────────────────────────────────────────────────┐
- │  FULL STACK DEVELOPER & DATA SCIENCE / AI STUDENT        │
- │  Builder of interactive web systems & creative 3D apps   │
- └──────────────────────────────────────────────────────────┘
-```
-
 Soy un desarrollador de software Full Stack apasionado por la artesanía del código, las interfaces de usuario interactivas de alto rendimiento y el procesamiento distribuido de datos. Graduado de **Bachillerato Técnico Profesional en Informática** y actualmente cursando la **Ingeniería en Ciencia de Datos e Inteligencia Artificial**. 
 
 Mi filosofía consiste en unificar la rigurosidad matemática del análisis de datos con el diseño visual contemporáneo (como la estética Neobrutalista), logrando que el software no solo sea rápido y modular, sino también una experiencia memorable.
