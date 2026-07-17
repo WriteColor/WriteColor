@@ -13,14 +13,7 @@ Mi filosofía consiste en unificar la rigurosidad matemática del análisis de d
 
 ---
 
-## 🚀 Actualmente Trabajando En (Currently Working On)
-* 🌐 Optimizando e implementando nuevas funcionalidades avanzadas en mi portafolio personal: [jeremerc.dev](https://jeremerc.dev).
-* 🧪 Investigando sombreadores matemáticos en WebGL/WebGPU para efectos visuales acelerados en navegador.
-* 🎙️ Desarrollando integraciones asíncronas de audio bidireccional y bots inteligentes.
-
----
-
-## 🔧 Tecnologías que Utilizo (Tech I'm Using)
+## 🔧 Tecnologías que Utilizo
 
 ### 💻 Frontend & Interfaces Interactivas
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,7 +39,7 @@ Mi filosofía consiste en unificar la rigurosidad matemática del análisis de d
 
 ---
 
-## ⚡ Filosofía de Ingeniería (Core Values)
+## ⚡ Filosofía de Ingeniería
 
 * **Planificación Rigurosa:** Escribo diagramas de flujo y defino contratos de APIs antes de tirar la primera línea de código. Un buen software se esculpe con diseño arquitectónico previo.
 * **Tipado Estricto & Robustez:** Adoro TypeScript. El tipado no es una restricción; es una póliza de seguridad que auto-documenta el sistema y facilita refactorizaciones sin miedo.
@@ -55,7 +48,7 @@ Mi filosofía consiste en unificar la rigurosidad matemática del análisis de d
 
 ---
 
-## 💬 Pregúntame Sobre (Ask Me About)
+## 💬 Pregúntame Sobre
 * Desarrollo Full Stack interactivo con animaciones físicas en React y Next.js.
 * Gráficos interactivos en 3D en web utilizando Three.js y WebGL.
 * Creación y automatización de sistemas distribuidos y bots integrados para Discord o servicios web.
@@ -63,7 +56,7 @@ Mi filosofía consiste en unificar la rigurosidad matemática del análisis de d
 
 ---
 
-## 🚀 Repositorios Destacados (Featured Repositories)
+## 🚀 Repositorios Destacados
 
 ### 🖥️ [jeremerc.dev](https://github.com/WriteColor/jeremerc.dev)
 * **Descripción:** Repositorio principal de mi portafolio personal interactivo. Diseñado con una estética neobrutalista premium y optimizado para una accesibilidad y rendimiento excepcionales.
@@ -81,33 +74,9 @@ Mi filosofía consiste en unificar la rigurosidad matemática del análisis de d
 * **Descripción:** Visor y cargador interactivo de mallas tridimensionales con soporte para iluminación dinámica, controles de cámara y manipulación de materiales.
 * **Tecnologías:** HTML5 Canvas • Three.js • WebGL API • JavaScript
 
-### 🎂 [Bee-s-Birthday](https://github.com/WriteColor/Bee-s-Birthday)
-* **Descripción:** Sitio web interactivo personalizado con efectos tipográficos creativos, tarjetas de deformación elástica y sistemas de partículas.
-* **Tecnologías:** React • Framer Motion • HTML5 Canvas Particle Engine
-
 ---
 
-## 🏆 Trofeos de GitHub (GitHub Trophies)
-Aquí puedes ver algunos de los logros y contribuciones que he acumulado en la comunidad:
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=WriteColor&theme=flat&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 📊 Estadísticas en Tiempo Real (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WriteColor&show_icons=true&theme=default&border_radius=0&border_width=3&bg_color=F6F6F6&title_color=000&icon_color=FF007F&text_color=333" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WriteColor&layout=compact&theme=default&border_radius=0&border_width=3&bg_color=F6F6F6&title_color=000&text_color=333" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📫 Cómo Contactar Conmigo (How to Reach Me)
+## 📫 Cómo Contactar Conmigo
 
 * **Sitio Web:** [jeremerc.dev](https://jeremerc.dev) (Mi Portfolio Interactivo)
 * **Correo Directo:** [contacto@jeremerc.dev](mailto:contacto@jeremerc.dev)
